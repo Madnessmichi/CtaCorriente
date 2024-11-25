@@ -4,7 +4,7 @@ import static org.junit.Assert.fail;
 
 import java.sql.Connection;
 
-public class ConexionBDPrueba {
+public class ConexionBDTest {
 
     @Test
     public void testConexionExitosa() {
